@@ -5,6 +5,8 @@
   padding: 32px;
   padding-left: 95px;
   padding-right: 95px;
+  border: 1px solid green;
+  width: 100%;
 }
 
 @media (max-width: 575px) {
